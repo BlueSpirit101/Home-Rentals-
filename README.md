@@ -76,21 +76,23 @@ ________________________________________
 
 #04 ⭐ Reviews & Ratings
 - Owners can respond to reviews
+  
 #04 🛠 Admin Dashboard
 - Approve or reject listings
 - Platform analytics & reports
 ________________________________________
 🧪 Testing
-•	Unit testing
-•	API testing
-•	End-to-end testing
+
+- Unit testing
+- API testing
+-	End-to-end testing
 ________________________________________
 📈 Future Enhancements
-•	AI-based property recommendations
-•	Chat system between owner & tenant
-•	Mobile app version
-•	Multi-language support
-•	Smart pricing suggestions
+-	AI-based property recommendations
+-	Chat system between owner & tenant
+-	Mobile app version
+-	Multi-language support
+-	Smart pricing suggestions
 
 ________________________________________
 📸 Screenshots
